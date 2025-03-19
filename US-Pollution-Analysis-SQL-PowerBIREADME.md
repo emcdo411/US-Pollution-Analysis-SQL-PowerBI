@@ -124,4 +124,5 @@ Feel free to fork this repository, submit pull requests, and suggest improvement
 
 The pollution charts have been generated successfully. You can download the image using the link below:
 
-[Download Pollution Charts](sandbox:/mnt/data/pollution_charts.png)
+![pollution_charts](https://github.com/user-attachments/assets/715b8b8a-7fc3-4bc6-a109-c6251005d80d)
+
